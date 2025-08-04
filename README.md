@@ -1,75 +1,61 @@
-# Hi 👋, I'm Nithin Mouli  
-🚀 Full-Stack Developer with expertise in MERN stack 🚀  
+# Hi 👋, I'm M Jayendra
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;AWS+%7C+Next.js+Learner;React+Native+Enthusiast)
+🚀 Aspiring Full-Stack Web Developer | MERN Stack Enthusiast | Problem Solver
 
----
-
-### 🔭 Currently working on  
-- 🎬 **Movie Review Platform**  
-- 📚 **Learn-Sphere** (AI-powered EdTech)
-
-### 🌱 Learning  
-- `Next.js`  
-- `AWS Serverless Architecture`
-
-### 💬 Ask me about  
-- React  
-- Node.js  
-- AWS Lambda  
-- React Native
-
-### 📫 Reach me at  
-📧 [nithinmouli03@gmail.com](mailto:nithinmouli03@gmail.com)
-
-### ⚡ Fun fact  
-I love solving algorithmic problems and have solved **200+** on [LeetCode](https://leetcode.com/your-leetcode-profile) with a rating of **1600+**!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+MERN+Stack;React+%7C+Node.js+%7C+MongoDB;Problem+Solver+%7C+300%2B+LeetCode+Problems)
 
 ---
 
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/your-github-username)
+### 📫 Reach Me At  
+📧 [jayendramalla26@gmail.com](mailto:jayendramalla26@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/jayendra-malla-1a77b6256)  
+🐙 [GitHub](https://github.com/jayendra123123)  
+📊 [LeetCode](https://leetcode.com/u/jayendra_26/)  
+👨‍💻 [CodeChef](https://www.codechef.com/users/malla_jayendra)
 
 ---
 
-## 🛠️ Languages and Tools  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)  
-![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=aws-lambda)  
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+### 💡 About Me
+- 🎓 B.Tech in Computer Science at Vignan’s Institute of Information Technology (CGPA: 8.00)
+- 👨‍💻 Full-stack developer focused on building responsive, user-centered web apps
+- 🧠 Strong foundation in Data Structures and Algorithms
+- 🌱 Currently learning and building with **MERN**, **Flask**, and **third-party APIs**
 
 ---
 
-## 🏆 Projects & Achievements
+### 🔧 Skills
 
-### 🎥 Movie Review Platform  
-- Fully responsive movie review web app built with **React** and **Tailwind CSS**  
-- Integrated **TMDB API** for real-time data (99% uptime)
-
-### 🏋️ FitBill - Gym Management System  
-- Cross-platform mobile app for 100+ users  
-- Real-time tracking and financial analytics  
-- Built with **React Native**, **Expo**, **Node.js**, and **AWS Lambda**
-
-### 📚 Learn-Sphere  
-- Built using **Next.js/React**  
-- Converts learning materials into structured content  
-- Uses **Google's Gemini API** to generate educational insights
+**Frontend:** JavaScript, React, HTML5, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Languages:** C++, Python, Java (Basics)  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
-### 🏅 Achievements  
-- 🥇 **Winner** – *IWD Hackathon* by Google Developer Group Vizag  
-- 🥉 5th place among 75 teams in 24-hour hackathon **"Sushacks"**  
-- 💻 **LeetCode**: 1600+ rating, 200+ problems solved  
+### 🛠️ Projects
+
+#### 🌿 [Plant Disease Identifier](https://github.com/jayendra123123/plant)
+- Upload leaf image → AI diagnosis via Gemini API → Show treatment
+- React frontend, Flask backend, Render deployment, CI/CD via GitHub Actions
+
+#### 🎬 [Movie Meter](https://github.com/jayendra123123/movie-review)
+- Movie reviews with real-time TMDB API integration
+- Debounced search, user validation, React Router, caching strategies
+
+#### ♻️ [River CleanUp](https://github.com/jayendra123123/clean-up)
+- Full-stack app to manage clean-up events
+- Google Maps API, email automation, authentication with roles
 
 ---
 
-### 🚀 Let's Connect and Collaborate!
+### 🏅 Achievements
+- ✅ Solved **300+ LeetCode problems**, rated **1500+**  
+- 🥈 **2-Star** rated on CodeChef  
+- 🧩 Built and deployed multiple full-stack applications with modern tools and APIs  
+
+---
+
+### 🚀 Let’s Build Together!
+I'm always open to collaboration, learning, and exciting projects. Let's connect and create something impactful!
 
