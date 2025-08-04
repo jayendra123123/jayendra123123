@@ -2,7 +2,7 @@
 
 🚀 Aspiring Full-Stack Web Developer | MERN Stack Enthusiast | Problem Solver
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+MERN+Stack;React+%7C+Node.js+%7C+MongoDB;Problem+Solver+%7C+300%2B+LeetCode+Problems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+MERN+Stack;Problem+Solver+%7C+300%2B+LeetCode+Problems)
 
 ---
 
