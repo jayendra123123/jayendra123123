@@ -5,7 +5,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Expert" alt="Typing SVG" />
 </div>
-![](https://komarev.com/ghpvc/?username=jayendra123123)
+![Visitor Count](https://profile-counter.glitch.me/jayendra123123/count.svg)
+
 
 
 ---
