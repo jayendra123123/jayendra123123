@@ -5,7 +5,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Expert" alt="Typing SVG" />
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=jayendra123123&color=blue&style=for-the-badge)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jayendra123123&title=Profile%20Views&edge_flat=false)
+![u8views](https://u8views.com/api/v1/github/profiles/129949568/views/day-week-month-total-count.svg)
+
 
 
 ---
