@@ -31,6 +31,7 @@
 ---
 
 ### 💡 About Me
+- 🌱 I’m currently learning ML.
 - 🎓 I'm currently pursuing a B.Tech in Computer Science at Vignan’s Institute of Information Technology (CGPA: 8.00).
 - 💻 I enjoy building clean, user-focused full-stack applications using modern web technologies.
 - 🔍 I have a basic foundation in Data Structures and Algorithms and continuously aim to improve my coding skills.
