@@ -112,6 +112,11 @@
 
 ---
 
+## 📊 GitHub Stats  
+![jayendra123123's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayendra123123&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayendra123123&layout=compact&theme=tokyonight)
+
+---
+
 ### 🏆 Achievements
 - ✅ Solved **300+ LeetCode problems** (Rating: **1500+**)  
 - 🥈 **2-Star** on CodeChef  
