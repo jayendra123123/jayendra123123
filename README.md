@@ -118,7 +118,7 @@
 ---
 
 ### 🏆 Achievements
-- ✅ Solved **300+ LeetCode problems** (Rating: **1500+**)  
+- ✅ Solved **350+ LeetCode problems** (Rating: **1600+**)  
 - 🥈 **2-Star** on CodeChef  
 - 🧩 Developed & deployed several full-stack web applications using modern tools and APIs  
 
