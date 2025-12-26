@@ -98,6 +98,10 @@
 
 ### 🔨 Projects
 
+#### ♻️ [Leftovers to Livelines-Food Donation Platform](https://github.com/jayendra123123/Food-Donation)
+- A web platform that helps donate leftover food from events by showing locations on Google Maps and connecting organizers with nearby NGOs.
+- Built with React, Node.js + Express.js, MongoDB full-stack implementation
+
 #### 🌿 [Plant Disease Identifier](https://github.com/jayendra123123/plant)
 - Upload leaf image → AI diagnosis via Gemini API → Show treatment
 - React frontend, Flask backend, Render deployment, CI/CD via GitHub Actions
@@ -105,10 +109,6 @@
 #### 🎬 [Movie Meter](https://github.com/jayendra123123/movie-review)
 - Real-time TMDB API integration, debounced search, reviews with validation
 - Built with React, Router, caching techniques
-
-#### ♻️ [River CleanUp](https://github.com/jayendra123123/clean-up)
-- Event platform with Google Maps API, role-based login, email notifications
-- Node.js + MongoDB + Express.js full-stack implementation
 
 ---
 
