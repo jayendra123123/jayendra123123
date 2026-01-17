@@ -87,8 +87,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayendra123123&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayendra123123&layout=compact&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jayendra123123&show_icons=true&theme=tokyonight"
+    alt="Jayendra's GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayendra123123&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
 </p>
 
 ---
