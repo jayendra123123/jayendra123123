@@ -31,7 +31,6 @@
 🧠 Strong DSA fundamentals | 350+ LeetCode problems (1600+ rating)
 🌱 Currently exploring Machine Learning & AI
 🔥 Obsessed with clean UI, performance & best practices
-----
 
 ## 🛠️ Languages and Tools
 
