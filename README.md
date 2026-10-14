@@ -55,7 +55,7 @@
 
 ---
 
-### 🎬 Movie Meter
+###  💰 SaveWise AI
 🔗 https://github.com/jayendra123123/savewaise.ai
 
 - Expense tracking, budgeting, savings goals, and AI-powered financial insights
