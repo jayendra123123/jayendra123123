@@ -55,6 +55,17 @@
 
 ---
 
+### 🎬 Movie Meter
+🔗 https://github.com/jayendra123123/savewaise.ai
+
+- Expense tracking, budgeting, savings goals, and AI-powered financial insights
+- Gold, silver, and stock price alerts with email notifications and task reminders
+- **Tech Stack** React Native, Node.js, Express.js, MongoDB, Gemini API
+
+---
+
+---
+
 ## 🔨 Projects
 
 ### ♻️ Leftovers to **Lifelines** – Food Donation Platform
@@ -73,16 +84,6 @@
 - Gemini API integration for intelligent predictions  
 - **Tech Stack:** React, Flask, CI/CD, GitHub Actions, Render  
 
----
-
-### 🎬 Movie Meter
-🔗 https://github.com/jayendra123123/movie-review
-
-- Real-time movie search using TMDB API  
-- Debounced search, review validation, and caching  
-- **Tech Stack:** React, React Router  
-
----
 
 ## 📊 GitHub Stats
 
@@ -101,7 +102,7 @@
 
 ## 🏆 Achievements
 
-- ✅ Solved **350+ LeetCode problems** (**1600+ rating**)  
+- ✅ Solved **450+ LeetCode problems** (**1600+ rating**)  
 - 🥈 **2-Star** on CodeChef  
 - 🧩 Built and deployed multiple **production-ready full-stack applications**
 
